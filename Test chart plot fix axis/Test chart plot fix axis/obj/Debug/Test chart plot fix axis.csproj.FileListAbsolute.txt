@@ -1,0 +1,9 @@
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\bin\Debug\Test chart plot fix axis.exe.config
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\bin\Debug\Test chart plot fix axis.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\bin\Debug\Test chart plot fix axis.pdb
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test chart plot fix axis.csprojResolveAssemblyReference.cache
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test_chart_plot_fix_axis.Form1.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test_chart_plot_fix_axis.Properties.Resources.resources
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test chart plot fix axis.csproj.GenerateResource.Cache
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test chart plot fix axis.exe
+c:\users\thanaban\documents\visual studio 2015\Projects\Test chart plot fix axis\Test chart plot fix axis\obj\Debug\Test chart plot fix axis.pdb
